@@ -22,3 +22,4 @@ A1 = np.dot(X, W1) + B1
 
 Z1 = sigmoid(A1)
 print(Z1)
+
